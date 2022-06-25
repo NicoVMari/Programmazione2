@@ -1,0 +1,6 @@
+MacBook 25 5
+iPhone 100 2
+Computer 500 3
+Stampante 1000 10
+Tablet 1500 7
+Mouse 2000 42
