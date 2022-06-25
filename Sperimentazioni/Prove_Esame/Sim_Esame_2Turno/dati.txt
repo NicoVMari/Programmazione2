@@ -1,0 +1,4 @@
+AA001 Titolo_1 20 CD
+AA002 Titolo_2 10 LP
+AA003 Titolo_3 12 LP
+AA004 Titolo_4 50 CD
